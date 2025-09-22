@@ -1,1 +1,1 @@
-Here is my first MLops projects with the DEZoomCamp team!
+Here is my first MLops projects with the DEZoomCamp team! V2
